@@ -1,0 +1,19 @@
+{
+  "name": "@react-monaco-editor/storybook",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@react-monaco-editor/core": "^1.0.0",
+    "@storybook/react": "^5.0.11",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.30.0"
+  },
+  "scripts": {
+    "storybook": "start-storybook"
+  }
+}
