@@ -1,0 +1,9 @@
+{
+  "name": "@react-monaco-editor/monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Peng Xiao <pengxiao@freewheel.tv>",
+  "license": "MIT"
+}
